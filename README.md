@@ -18,4 +18,4 @@ Votex is a decentralized voting application built on the Ethereum Sepolia test n
 ## Link 💪📖
 
 - Frontend 💻: [View this](https://github.com/yebology/votex-dapp.git)
-- Smart Contract 🔐: [View this](https://github.com/yebology/votex-smartcontract.git)
+- Smart Contract 🔐: [View this](https://github.com/yebology/votex-smartcon.git)
